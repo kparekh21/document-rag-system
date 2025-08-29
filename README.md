@@ -37,7 +37,7 @@ This system ingests PDF documents from Google Drive, processes them into searcha
 ### 1. Clone and Setup
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/kparekh21/document-rag-system)
 cd hybrid-rag-system
 cp .env.example .env
 ```
