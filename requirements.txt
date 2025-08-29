@@ -1,0 +1,21 @@
+# Core Framework
+fastapi
+uvicorn
+streamlit
+groq
+elasticsearch==8.11.0
+sentence-transformers
+torch
+numpy
+PyPDF2
+pdfplumber
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-auth
+python-dotenv
+pydantic
+pandas
+requests
+pytest
+plotly
